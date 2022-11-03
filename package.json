@@ -1,0 +1,25 @@
+{
+  "name": "nodejswithvue",
+  "version": "1.0.0",
+  "description": "Nodejs,Vuejs,Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamdatt/Nodejs-Vuejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "vuejs",
+    "web",
+    "frontend"
+  ],
+  "author": "phamdat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamdatt/Nodejs-Vuejs/issues"
+  },
+  "homepage": "https://github.com/phamdatt/Nodejs-Vuejs#readme"
+}
