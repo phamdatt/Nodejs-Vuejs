@@ -1,16 +1,11 @@
 <template>
-  <HomePage/>
+  <div>HomePage</div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import HomePage from './pages/HomePage.vue';
 
 export default defineComponent({
-  name: 'App',
-  components: {
-    HomePage
-  }
+  name: "HomePage",
 });
 </script>
-
